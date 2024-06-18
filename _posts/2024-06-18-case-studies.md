@@ -2,6 +2,8 @@
 layout: post
 title: "Case Studies"
 permalink: /case-studies/
+gh-badge: [star, fork, follow]
+tags: [case-studies,aws,cicd]
 comments: true
 mathjax: true
 author: Carlo Goleta
