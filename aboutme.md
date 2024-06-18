@@ -25,9 +25,10 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
       <li><i class="fas fa-chart-line mr-2"></i> Monitoring and logging with tools like CloudWatch, Prometheus, and Grafana</li>
       <li><i class="fab fa-jenkins mr-2"></i> Automation using Jenkins, Cloudformation, and AWS Copilot</li>
       <li><i class="fas fa-code mr-2"></i> Scripting with Bash and Python</li>
-      <li><i class="fa-solid fa-gavel"></i> Web development using Ruby on rails </li>
+      <li><i class="fa-solid fa-gavel"></i> Web development using Ruby on Rails </li>
       <li><i class="fa-solid fa-globe"></i> Gitlab, Github Actions, and AWS CodeCommit </li>
-      <li><i class="fa-solid fa-layer-group"></i>APIs and API Gateways </li>
+      <li><i class="fa-solid fa-layer-group"></i> APIs and API Gateways </li>
+      <li><i class="fa-solid fa-atom"></i> Serverless/AWS Lambda </li>
     </ul>
   </div>
 </section>
