@@ -1123,3 +1123,16 @@ pre {
     display: inline-block;
   }
 }
+
+/* Add custom styles here */
+.rounded-circle {
+  border-radius: 50%;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.profile-pic {
+  width: 200px;
+  height: 200px;
+}

@@ -9,7 +9,7 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
 <header class="masthead text-center">
   <div class="container">
     <!-- Add image of yourself here -->
-    <img src="/assets/img/profile_picture.png" alt="Carlo Goleta's Profile Picture" width="200px">
+    <img src="/assets/img/profile_picture.png" alt="Carlo Goleta's Profile Picture" width="200px" class="rounded-circle img-fluid profile-pic">
     <h1>Carlo Goleta</h1>
     <p class="text-muted">DevOps Engineer | AWS Certified Solutions Architect - Associate</p>
   </div>
