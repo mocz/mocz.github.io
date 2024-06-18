@@ -11,8 +11,21 @@ author: Carlo Goleta
 
 ## Case Study 1: Vortex.ph & Tinbo.ph Infrastructure Migration and Automation
 
-![Vortex.ph](/assets/images/vortex.ph_.png)
-![Tinbo.ph](/assets/images/tinbo.ph_.png)
+<section id="projects" class="py-5 text-center">
+  <!-- <h2>My Work</h2>
+  <p>Here are some examples of projects I've worked on:</p> -->
+  <div class="container d-flex justify-content-between flex-wrap">
+    <!-- Include other project cards here -->
+    <div class="card mb-4" style="width: calc(33.33% - 1rem);">
+      <img src="/assets/img/vortex.ph_.png" alt="Vorte.ph" width="100%">
+      <!-- Include project details here -->
+    </div>
+    <div class="card mb-4" style="width: calc(33.33% - 1rem);">
+      <img src="/assets/img/tinbo.ph_.png" alt="Tinbo.ph" width="100%">
+      <!-- Include project details here -->
+    </div>
+  </div>
+</section>
 
 ### Project Name
 Vortex.ph and Tinbo.ph are B2B2C web applications that underwent an infrastructure migration from on-premises to Amazon Web Services (AWS) with the implementation of a Continuous Integration/Continuous Delivery (CI/CD) pipeline using AWS CodePipeline and CloudFormation.
