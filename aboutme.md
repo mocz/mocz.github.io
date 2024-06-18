@@ -18,12 +18,16 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
 <section id="about" class="bg-light py-5">
   <div class="container text-center">
     <h2>About Me</h2>
-    <p>I'm a dedicated and experienced DevOps Engineer with a strong background in designing, implementing, and managing cloud infrastructure using Amazon Web Services (AWS). My expertise includes:</p>
+    <p>I'm a dedicated and experienced DevOps Engineer with a strong background in designing, implementing, and managing on-prem (VMWare Tanzu PKS) and cloud infrastructure using Amazon Web Services (AWS). My expertise includes:</p>
     <ul class="list-inline">
       <li><i class="fas fa-code mr-2"></i> Continuous Integration/Continuous Delivery pipelines</li>
-      <li><i class="fab fa-docker mr-2"></i> Containerization using Docker and Amazon Elastic Container Service (ECS)</li>
-      <li><i class="fas fa-chart-line mr-2"></i> Monitoring and logging with tools like CloudWatch, ELK Stack, and Grafana</li>
-      <li><i class="fab fa-jenkins mr-2"></i> Automation using Jenkins, Cloudformation, and AWS CDK</li>
+      <li><i class="fab fa-docker mr-2"></i> Containerization and Orchestration using Docker, Kubernetes, and AWS ECS</li>
+      <li><i class="fas fa-chart-line mr-2"></i> Monitoring and logging with tools like CloudWatch, Prometheus, and Grafana</li>
+      <li><i class="fab fa-jenkins mr-2"></i> Automation using Jenkins, Cloudformation, and AWS Copilot</li>
+      <li><i class="fas fa-code mr-2"></i> Scripting with Bash and Python</li>
+      <li><i class="fas fa-code mr-2"></i> Web development using Ruby on rails</i> </li>
+      <li><i class="fas fa-code mr-2"></i> Gitlab, Github Actions, and AWS CodeCommit</i> </li>
+      <li><i class="fas fa-code mr-2"></i> APIs and API Gateways</i> </li>
     </ul>
   </div>
 </section>
