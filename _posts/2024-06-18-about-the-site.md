@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Site"
-permalink: /case-studies/
+permalink: /about-the-site/
 gh-badge: [star, fork, follow]
 tags: [about-site,github,cicd]
 comments: true
