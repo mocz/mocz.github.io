@@ -28,7 +28,7 @@ author: Carlo Goleta
 </section>
 
 <!-- ### Project Name -->
-[Vortex.ph]{https://www.vortex.ph/} and [Tinbo.ph]{https://tinbo.ph/} are B2B2C web applications that underwent an infrastructure migration from on-premises to Amazon Web Services (AWS) with the implementation of a Continuous Integration/Continuous Delivery (CI/CD) pipeline using AWS CodePipeline and CloudFormation.
+[Vortex.ph](https://www.vortex.ph/) and [Tinbo.ph](https://tinbo.ph/) are B2B2C web applications that underwent an infrastructure migration from on-premises to Amazon Web Services (AWS) with the implementation of a Continuous Integration/Continuous Delivery (CI/CD) pipeline using AWS CodePipeline and CloudFormation.
 
 ### Role and Responsibilities
 As a DevOps Engineer, I was responsible for designing and implementing the infrastructure migration of our web applications from an on-premises setup to Amazon Web Services (AWS). Additionally, I implemented a CI/CD pipeline using AWS CodePipeline and CloudFormation for efficient deployment and cost savings.
@@ -41,16 +41,17 @@ As a DevOps Engineer, I was responsible for designing and implementing the infra
 - By migrating to AWS, we could take advantage of their comprehensive security offerings such as Virtual Private Cloud (VPC), Identity and Access Management (IAM), and Security Groups. These services allowed us to secure our infrastructure by controlling access to resources at the network level and implementing granular permissions for users and roles.
 
 ### Tools and Technologies Used
-- **AWS CodePipeline**: ![CodePipeline logo](https://docs.aws.amazon.com/codepipeline/latest/userguide/images/logo_128x128.png)
-- **Codecommit & Gitlab**: ![GitHub Logo](https://github.com/favicon.ico) / ![GitLab Logo](https://about.gitlab.com/images/logos/logo_dark@2x.svg)
-- **CloudFormation**: ![CloudFormation logo](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/images/cloudformation-stack.png)
-- **Codebuild**: ![CodeBuild logo](https://d1.awsstatic.com/product-marketing/codecommit_and_codebuild/images/logo-2x_140x140.png)
-- **ECR**: ![Amazon ECR Logo](https://docs.aws.amazon.com/AmazonECR/latest/userguide/images/AmazonECRLogo.svg)
-- **ECS Fargate**: ![Fargate logo](https://d1.awsstatic.com/product-marketing/containers/images/ecs_fargate_logo_2x_140x140.png)
-- **VPC**: ![Amazon VPC Logo](https://docs.aws.amazon.com/vpc/latest/userguide/images/vpc-logo.svg)
-- **IAM**: ![Identity and Access Management logo](https://d1.awsstatic.com/product-marketing/identity_and_access_management/images/signinwithus_topcornershort.png)
-- **Security Groups**: ![Amazon VPC Security Group Logo](https://docs.aws.amazon.com/vpc/latest/userguide/images/securityGroupIcon.svg)
-- **Jira**: ![Jira logo](https://www.atlassian.com/static/media/branding/logos/jira_logo_2x.png)
+- **AWS CodePipeline**
+- **Codecommit & Gitlab**
+- **CloudFormation**
+- **Codebuild**
+- **ECR**
+- **ECS Fargate**
+- **VPC**
+- **IAM**
+- **Security Groups**
+- **Docker**
+- **Python and Bash Scripting**
 
 ### Outcomes and Results
 The successful implementation of the infrastructure migration to AWS and CI/CD pipeline using CodePipeline and CloudFormation allowed for significant improvements in deployment time, cost savings through eliminating on-premises hardware and maintenance costs, and improved security through robust AWS features. This setup enabled efficient deployments upon code changes while reducing potential downtime due to manual intervention.
@@ -62,6 +63,18 @@ The successful implementation of the infrastructure migration to AWS and CI/CD p
 ## Case Study 2: Monitoring and Auto-Scaling for Microservices Architecture using Amazon CloudWatch
 
 <!-- ### Project Name -->
+<section id="projects" class="py-5 text-center">
+  <!-- <h2>My Work</h2>
+  <p>Here are some examples of projects I've worked on:</p> -->
+  <div class="container d-flex justify-content-between flex-wrap">
+    <!-- Include other project cards here -->
+    <div class="card mb-4" style="width: calc(100% - 1rem);">
+      <img src="https://docs.aws.amazon.com/images/lambda/latest/operatorguide/images/monitoring-observability-figure-1.png" alt="Vortex.ph" width="100%">
+      <!-- Include project details here -->
+    </div>
+  </div>
+</section>
+
 In this project, I was responsible for designing and implementing a monitoring system using Amazon CloudWatch and enabling auto-scaling for Elastic Container Service (ECS) clusters to ensure optimal performance and cost efficiency. This setup provided real-time visibility into the infrastructure's health and performance while reducing potential downtime due to capacity issues.
 
 ### Role and Responsibilities
@@ -73,6 +86,6 @@ As a DevOps Engineer, I was responsible for designing and implementing a monitor
 - Enabling auto-scaling for ECS clusters allowed us to automatically adjust resources based on demand, ensuring optimal performance while reducing potential downtime due to capacity issues.
 
 ### Tools and Technologies Used
-- Amazon CloudWatch
-- Elastic Container Service (ECS)
-- Auto Scaling
+- **Amazon CloudWatch**
+- **Elastic Container Service (ECS)**
+- **Auto Scaling**
