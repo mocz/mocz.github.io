@@ -11,6 +11,9 @@ author: Carlo Goleta
 
 ## Case Study 1: Vortex.ph & Tinbo.ph Infrastructure Migration and Automation
 
+![Vortex.ph](/assets/images/vortex.ph_.png)
+![Tinbo.ph](/assets/images/tinbo.ph_.png)
+
 ### Project Name
 Vortex.ph and Tinbo.ph are B2B2C web applications that underwent an infrastructure migration from on-premises to Amazon Web Services (AWS) with the implementation of a Continuous Integration/Continuous Delivery (CI/CD) pipeline using AWS CodePipeline and CloudFormation.
 
@@ -26,7 +29,7 @@ As a DevOps Engineer, I was responsible for designing and implementing the infra
 
 ### Tools and Technologies Used
 - AWS CodePipeline
-- Amazon Elastic Beanstalk
+- Amazon Lambda
 - CloudFormation
 - Amazon RDS
 - ElastiCache
