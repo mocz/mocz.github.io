@@ -31,7 +31,7 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
 <section id="post" class="py-5">
   <h2 class="text-center mb-4">Case Studies</h2>
   {% for post in site.posts %}
-    {% if post.categories contains 'case-study' %}
+    {% if post.categories contains 'case-studies' %}
       <!-- Include the case study markdown file here -->
       {{ post.content | from_liquid }}
     {% endif %}
