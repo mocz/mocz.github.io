@@ -23,17 +23,17 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
       <li><i class="fas fa-code mr-2"></i> Continuous Integration/Continuous Delivery pipelines</li>
       <li><i class="fab fa-docker mr-2"></i> Containerization using Docker and Amazon Elastic Container Service (ECS)</li>
       <li><i class="fas fa-chart-line mr-2"></i> Monitoring and logging with tools like CloudWatch, ELK Stack, and Grafana</li>
-      <li><i class="fab fa-jenkins mr-2"></i> Automation using Jenkins, Ansible, Terraform, and AWS CDK</li>
+      <li><i class="fab fa-jenkins mr-2"></i> Automation using Jenkins, Cloudformation, and AWS CDK</li>
     </ul>
   </div>
 </section>
 
-<!-- <section id="projects" class="py-5">
+<section id="post" class="py-5">
   <h2 class="text-center mb-4">Case Studies</h2>
   {% for post in site.posts %}
     {% if post.categories contains 'case-study' %}
       <!-- Include the case study markdown file here -->
       {{ post.content | from_liquid }}
     {% endif %}
-  {% endfor %}
+  {% endfor %} -->
 </section> -->
