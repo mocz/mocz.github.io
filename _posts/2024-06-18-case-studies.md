@@ -27,7 +27,7 @@ author: Carlo Goleta
   </div>
 </section>
 
-### Project Name
+<!-- ### Project Name -->
 Vortex.ph and Tinbo.ph are B2B2C web applications that underwent an infrastructure migration from on-premises to Amazon Web Services (AWS) with the implementation of a Continuous Integration/Continuous Delivery (CI/CD) pipeline using AWS CodePipeline and CloudFormation.
 
 ### Role and Responsibilities
@@ -59,7 +59,7 @@ The successful implementation of the infrastructure migration to AWS and CI/CD p
 
 ## Case Study 2: Monitoring and Auto-Scaling for Microservices Architecture using Amazon CloudWatch
 
-### Project Name
+<!-- ### Project Name -->
 In this project, I was responsible for designing and implementing a monitoring system using Amazon CloudWatch and enabling auto-scaling for Elastic Container Service (ECS) clusters to ensure optimal performance and cost efficiency. This setup provided real-time visibility into the infrastructure's health and performance while reducing potential downtime due to capacity issues.
 
 ### Role and Responsibilities

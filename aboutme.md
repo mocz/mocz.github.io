@@ -8,6 +8,8 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
 
 <header class="masthead text-center">
   <div class="container">
+    <!-- Add image of yourself here -->
+    <img src="/images/profile_picture.png" alt="Carlo Goleta's Profile Picture" width="200px">
     <h1>Carlo Goleta</h1>
     <p class="text-muted">DevOps Engineer | AWS Certified Solutions Architect - Associate</p>
   </div>
@@ -26,7 +28,7 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
   </div>
 </section>
 
-<section id="projects" class="py-5">
+<!-- <section id="projects" class="py-5">
   <h2 class="text-center mb-4">Case Studies</h2>
   {% for post in site.posts %}
     {% if post.categories contains 'case-study' %}
@@ -34,4 +36,4 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
       {{ post.content | from_liquid }}
     {% endif %}
   {% endfor %}
-</section>
+</section> -->
