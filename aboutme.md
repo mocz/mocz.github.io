@@ -32,7 +32,7 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
   <h2 class="text-center mb-4">Case Studies</h2>
   {% for post in site.posts %}
     {% if post.tags contains 'case-studies' %}
-      <!-- Include the case study markdown file here -->
+      <!-- Include the case study markdown file here 
       {{ post.content | from_liquid }}
     {% endif %}
   {% endfor %}

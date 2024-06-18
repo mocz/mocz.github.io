@@ -69,7 +69,7 @@ The successful implementation of the infrastructure migration to AWS and CI/CD p
   <div class="container d-flex justify-content-between flex-wrap">
     <!-- Include other project cards here -->
     <div class="card mb-4" style="width: calc(100% - 1rem);">
-      <img src="https://docs.aws.amazon.com/images/lambda/latest/operatorguide/images/monitoring-observability-figure-1.png" alt="Vortex.ph" width="100%">
+      <img src="https://d2908q01vomqb2.cloudfront.net/972a67c48192728a34979d9a35164c1295401b71/2019/08/08/CI-ECS-Thumbnail-1260x615.png" alt="Cloudwatch" width="100%">
       <!-- Include project details here -->
     </div>
   </div>
