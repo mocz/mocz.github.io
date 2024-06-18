@@ -1,5 +1,7 @@
 ---
-layout: aboutme
+layout: page
+title: About me
+subtitle: I like to invent new things.
 title: "Carlo Goleta | DevOps Engineer"
 permalink: /
 description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer with a strong background in designing and implementing scalable cloud infrastructure using AWS services. With expertise in CI/CD pipelines, containerization, monitoring, and automation tools, I help organizations streamline their development processes and improve overall system performance."
