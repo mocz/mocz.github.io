@@ -16,11 +16,11 @@ author: Carlo Goleta
   <p>Here are some examples of projects I've worked on:</p> -->
   <div class="container d-flex justify-content-between flex-wrap">
     <!-- Include other project cards here -->
-    <div class="card mb-4" style="width: calc(33.33% - 1rem);">
-      <img src="/assets/img/vortex.ph_.png" alt="Vorte.ph" width="100%">
+    <div class="card mb-4" style="width: calc(50% - 1rem);">
+      <img src="/assets/img/vortex.ph_.png" alt="Vortex.ph" width="100%">
       <!-- Include project details here -->
     </div>
-    <div class="card mb-4" style="width: calc(33.33% - 1rem);">
+    <div class="card mb-4" style="width: calc(50% - 1rem);">
       <img src="/assets/img/tinbo.ph_.png" alt="Tinbo.ph" width="100%">
       <!-- Include project details here -->
     </div>
