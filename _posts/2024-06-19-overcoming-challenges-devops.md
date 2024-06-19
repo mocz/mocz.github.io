@@ -9,7 +9,6 @@ mathjax: true
 author: Carlo Goleta
 ---
 
-## Introduction 🏠
 During a recent project, our team faced challenges in protecting microservices and ensuring security compliance while maintaining scalability. In this blog post, I will share some real-life experiences from my role in overcoming these challenges.
 
 ### Protecting APIs and Microservices 🔒
