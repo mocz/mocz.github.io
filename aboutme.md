@@ -11,7 +11,7 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
     <!-- Add image of yourself here -->
     <img src="/assets/img/profile_picture.png" alt="Carlo Goleta's Profile Picture" width="200px" class="rounded-circle img-fluid profile-pic">
     <h1>Carlo Goleta</h1>
-    <p class="text-muted">DevOps Engineer | [SAA-C03]{https://www.credly.com/badges/4ec8e53b-7acc-40e7-8835-27b41547f305} | [DP-900](https://www.credly.com/badges/502d2e0b-f2f3-4531-83da-366da6935014)</p>
+    <p class="text-muted">DevOps Engineer | [SAA-C03](https://www.credly.com/badges/4ec8e53b-7acc-40e7-8835-27b41547f305) | [DP-900](https://www.credly.com/badges/502d2e0b-f2f3-4531-83da-366da6935014)</p>
   </div>
 </header>
 
