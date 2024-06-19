@@ -8,11 +8,8 @@ comments: true
 mathjax: true
 author: Carlo Goleta
 output: html_document::default
+rmd.list("setup.r")  # Include setup script for loading libraries and setting options
 ---
-
-```{r}
-knitr::opts_chunk$set(echo = TRUE)
-library(tidyverse) 💻
 
 ## Introduction :house:
 During a recent migration process, our team faced challenges in protecting microservices and ensuring security compliance while maintaining scalability. In this blog post, I will share some real-life experiences from my role in overcoming these challenges.
