@@ -42,6 +42,9 @@ As a DevOps Engineer, I was responsible for designing and implementing the infra
 
 ### Tools and Technologies Used
 - **AWS CodePipeline**
+- **AWS API Gateway**
+- **AWS Cognito**
+- **AWS Parameterstore & Secrets Manager**
 - **Codecommit & Gitlab**
 - **CloudFormation**
 - **Codebuild**
