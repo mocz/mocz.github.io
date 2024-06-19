@@ -11,6 +11,19 @@ author: Carlo Goleta
 
 # Portfolio Site: Tech Stack & CI/CD with Jekyll and GitHub Pages
 
+<section id="projects" class="py-5 text-center">
+  <!-- <h2>My Work</h2>
+  <p>Here are some examples of projects I've worked on:</p> -->
+  <div class="container d-flex justify-content-between flex-wrap">
+    <!-- Include other project cards here -->
+    <div class="card mb-4" style="width: calc(100% - 1rem);">
+      <img src="/assets/img/gh-cicd.png" alt="Vortex.ph" width="100%">
+      <!-- Include project details here -->
+    </div>
+  </div>
+</section>
+
+
 In this blog post, we will discuss the technology stack used to build my personal portfolio site using Jekyll and how I set up Continuous Integration (CI) and Continuous Delivery (CD) using GitHub Actions.
 
 ## Technology Stack
