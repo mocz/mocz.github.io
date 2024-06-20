@@ -30,6 +30,6 @@ description: "Welcome! I'm Carlo, a passionate and experienced DevOps Engineer w
       <li><i class="fa-solid fa-layer-group"></i> APIs and API Gateways </li>
       <li><i class="fa-solid fa-atom"></i> Serverless/AWS Lambda </li>
     </ul>
-    <p>*ArtisanInsights*: As a creative DevOps Engineer, I combine technical expertise with artistic flair to deliver innovative and impactful solutions 🎨💡. The name "ArtisanInsights" represents the fusion of these two worlds in my portfolio site – dedication, craftsmanship, knowledge, and understanding.</p>
+    <p>ArtisanInsights: As a creative DevOps Engineer, I combine technical expertise with artistic flair to deliver innovative and impactful solutions 🎨💡. The name "ArtisanInsights" represents the fusion of these two worlds in my portfolio site – dedication, craftsmanship, knowledge, and understanding.</p>
   </div>
 </section>
